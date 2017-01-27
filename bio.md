@@ -1,4 +1,4 @@
-** Name: Zhengyi Shi **
+Name: Zhengyi Shi
 
 Email: shiz2@rpi.edu
 
