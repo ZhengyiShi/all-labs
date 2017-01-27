@@ -1,4 +1,4 @@
-# LAb1
+# LAB1
 
 # **c**
 ## **definition**
