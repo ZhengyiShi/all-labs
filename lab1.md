@@ -1,4 +1,4 @@
-# **  c **
+# **c**
 ## **definition**
 Open source means software for which the original source code is made freely available and may be redistributed and modified.
 
@@ -9,11 +9,11 @@ Open source means software for which the original source code is made freely ava
 ## **free culture**
 Some associations like RIAA in the articles use copyright laws to limit the improve and progress of technology. Their behavior is against development of free culture. It seems that they are maintaining the benefits, but actually many people, Jesse for instance, just helped others without any benefit. Allowing people to modify or improve works may promote the development of social and technology. Free culture give chances for more people to share their thoughts and to learn from others.
 
-# **  d **
+# **d**
 ## **tree**
 ![image](https://raw.githubusercontent.com/zerosolasky/all-labs/2b9223bd03ae1d3902e8fd6924b4318eadd11881/screenshot/24.png)
 
-# **  e **
+# **e**
 ## **7 practice problem**  
 ## 1:
 ![image](https://raw.githubusercontent.com/zerosolasky/all-labs/73b73da68d69c23ec6935b43f37649e7f78e34ab/screenshot/1.png)
@@ -85,10 +85,10 @@ Some associations like RIAA in the articles use copyright laws to limit the impr
 ## 5:
 ![image](https://raw.githubusercontent.com/zerosolasky/all-labs/6a83d192b70a5b96ed213554802e1f46b43f2bd8/screenshot/22.png)
 
-# **  f **
+# **f**
 ## **blocky maze**
 ![image](https://raw.githubusercontent.com/zerosolasky/all-labs/2b678abd8f967261f8e83addb7f38ace9848d515/screenshot/23.png)
 
-# **  g **
+# **g**
 ## **About the project**
 After finishing the tutorials of regular expression, I become interested with it. So I am considering to write a program about regular expression like the tutorials to check if I really get something from it. I should go to web to find and learn completed rules of regular expression. And then using c++ to achieve this program.
